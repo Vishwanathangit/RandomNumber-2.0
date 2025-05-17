@@ -36,5 +36,5 @@ A fun and simple **Guess the Number** game built using **HTML**, **CSS**, and **
   ```
 </pre>
 
-GitHub Repo : []
-LiveDemo : []
+GitHub Repo : [https://github.com/Vishwanathangit/RandomNumber-2.0.git]
+LiveDemo : [https://vishwanathangit.github.io/RandomNumber-2.0/]
